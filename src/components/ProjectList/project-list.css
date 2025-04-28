@@ -1,0 +1,15 @@
+.project-list-portfolio {
+    display: flex;
+    margin: -8px;
+    flex-wrap: wrap;
+}
+
+.project-column-portfolio {
+    padding: 8px;
+    width: 30%;
+}
+
+img {
+    width: 100%;
+    max-width: 100%;
+}
