@@ -1,7 +1,7 @@
 {
   "name": "filter",
   "private": true,
-  "homepage": "https://github.com/BudTon/ra_events-state_filter",
+  "homepage": "https://BudTon.github.io/ra_events-state_filter",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
